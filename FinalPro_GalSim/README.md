@@ -42,7 +42,7 @@ q or esc            --> quit the program              ##
 Ctrl +              --> zoom in                       ##
 
 - (minus sign)      --> zoom out                      ##
-- 
+
  Right arrow         --> move to the right             ##
 
 Left arrow          --> move to the left              ##
