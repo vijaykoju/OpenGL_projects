@@ -1,0 +1,3 @@
+createMesh:	createMesh.cpp
+	g++ -o createMesh mesh.cpp createMesh.cpp -framework Carbon -framework OpenGL -framework GLUT
+

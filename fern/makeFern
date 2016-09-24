@@ -1,0 +1,3 @@
+fern:	fern.cpp
+	g++ -o fern fern.cpp -framework Carbon -framework OpenGL -framework GLUT
+

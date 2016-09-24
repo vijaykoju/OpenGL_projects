@@ -1,0 +1,2 @@
+halfSpheres: mesh.cpp Camera.cpp halfSpheres.cpp
+	g++ -o halfSpheres mesh.cpp Camera.cpp halfSpheres.cpp -framework Carbon -framework OpenGL -framework GLUT
