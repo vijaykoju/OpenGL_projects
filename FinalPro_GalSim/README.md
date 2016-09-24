@@ -21,26 +21,26 @@ This program simulates collision dynamics of Andromeda and MilkyWay galaxies. Th
 
 --------------------Keyboard options:----------------------
 
-## h                   --> view this page                ##
-## s                   --> start/stop animation          ##
-## f                   --> fullscreen mode on/off        ##
-## c                   --> change color warm/cool        ##
-## o                   --> boundary (box) on/off         ##
-## i                   --> go back to initial setting    ##
-## r                   --> reset with different initial  ##
-##                         velocity                      ##
-## t                   --> trace the path of "Center of  ##
-##                         mass" of the two galaxies     ##
-## q or esc            --> quit the program              ##
-## Ctrl +              --> zoom in                       ##
-## - (minus sign)      --> zoom out                      ##
-## Right arrow         --> move to the right             ##
-## Left arrow          --> move to the left              ##
-## Up arrow            --> move up                       ##
-## Down arrow          --> move down                     ##
+h                   --> view this page                ##
+s                   --> start/stop animation          ##
+f                   --> fullscreen mode on/off        ##
+c                   --> change color warm/cool        ##
+o                   --> boundary (box) on/off         ##
+i                   --> go back to initial setting    ##
+r                   --> reset with different initial  ##
+                        velocity                      ##
+t                   --> trace the path of "Center of  ##
+                         mass" of the two galaxies     ##
+q or esc            --> quit the program              ##
+Ctrl +              --> zoom in                       ##
+- (minus sign)      --> zoom out                      ##
+ Right arrow         --> move to the right             ##
+Left arrow          --> move to the left              ##
+Up arrow            --> move up                       ##
+Down arrow          --> move down                     ##
 
 -----------------------Mouse options:----------------------
 
-## Left click and drag --> rotate                        ##
-## Right click         --> pop menu                      ##
+Left click and drag --> rotate                        ##
+Right click         --> pop menu                      ##
 -----------------------------------------------------------------------------
