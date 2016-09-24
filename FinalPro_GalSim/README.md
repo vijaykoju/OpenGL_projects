@@ -9,13 +9,19 @@ This program simulates collision dynamics of Andromeda and MilkyWay galaxies. Th
 -----------------------------------------------------------------------------
 
 ******************* Required files to run this program **********************
+
 1) FinalPro_GalSim.cpp
+
 2) intialConditionData.dat
+
 3) CoolWarmFloat257.dat
+
 4) Jet257.dat
+
 5) makefile (for a MAC OS)
 
 ****** To run this program (if all the files listed above are present) ******
+
     $ make
     $ ./galSim
 
@@ -41,9 +47,9 @@ q or esc            --> quit the program              ##
 
 Ctrl +              --> zoom in                       ##
 
-- (minus sign)      --> zoom out                      ##
+(minus sign) -     --> zoom out                      ##
 
- Right arrow         --> move to the right             ##
+Right arrow         --> move to the right             ##
 
 Left arrow          --> move to the left              ##
 
